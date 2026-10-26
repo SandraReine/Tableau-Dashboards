@@ -46,7 +46,10 @@ Used a variety of visualisation techniques to explore patterns, compare performa
 - Created an interactive dashboard exploring UK employment trends
 - Visualised industry growth and workforce changes
 - Used maps to analyse regional employment statistics
-- Compared employment sectors and industry performance 
+- Compared employment sectors and industry performance
+  
+  [Link to my Dashboard](https://public.tableau.com/views/GBEmploymentData_17900039611610/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+  
 <img width="788" height="480" alt="image" src="https://github.com/user-attachments/assets/a5dddf33-d66e-4174-a51f-3e0e769efada" />
 
 ### ❤️ Global Health Dashboard
@@ -55,15 +58,20 @@ Used a variety of visualisation techniques to explore patterns, compare performa
 - Designed line charts displaying life expectancy trends over time
 - Built pie charts comparing population by gender
 - Produced scatter plots analysing life expectancy versus BMI
-- Applied filters to explore country-specific insights 
+- Applied filters to explore country-specific insights
+
+  [Link to my Dashboard](https://public.tableau.com/views/Health_17900794644590/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 <img width="788" height="431" alt="image" src="https://github.com/user-attachments/assets/87938ebf-5bd1-4387-9127-6986cc6c59e7" />
+  
 
 
 ### 🎵 Spotify Analytics Dashboard
 - Analysed music popularity and genre trends
 - Created visualisations showing artist popularity and performance
 - Compared danceability, valence, and listening trends
-- Used interactive filters to explore music-related insights 
+- Used interactive filters to explore music-related insights
+
+  [Link to my Dashboard](https://public.tableau.com/views/Spotifydataset_17900894470180/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) 
 <img width="788" height="434" alt="image" src="https://github.com/user-attachments/assets/5ce30b0c-158e-48ef-8ca0-e62c7146b346" />
 
 
