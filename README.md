@@ -4,7 +4,7 @@
 
 This project was completed during my **Data Technician Bootcamp** and demonstrates the use of **Tableau Public** to create interactive dashboards, analyse datasets, and communicate insights through effective data storytelling.
 
-The project involved working with health, employment, retail, sales, and Spotify datasets to transform raw data into meaningful visualisations that support data-driven decision-making. 【1-8805a6】
+The project involved working with health, employment, retail, sales, and Spotify datasets to transform raw data into meaningful visualisations that support data-driven decision-making. 
 
 ---
 
@@ -15,18 +15,18 @@ The project involved working with health, employment, retail, sales, and Spotify
 - Designed user-friendly visualisations
 - Built dashboards with multiple linked worksheets
 - Published dashboards to Tableau Public
-- Applied dashboard filters for interactive analysis 【1-8805a6】
+- Applied dashboard filters for interactive analysis 
 
 ### 🎛️ Filtering & Interactivity
 - Applied filters to focus on specific data segments
 - Created interactive dashboard controls
 - Used global filters across multiple visualisations
-- Sorted and filtered data to highlight key insights 【1-8805a6】
+- Sorted and filtered data to highlight key insights 
 
 ### 🧮 Calculated Fields
 - Created calculated fields to derive new metrics
 - Performed aggregations and comparisons
-- Enhanced analysis through custom calculations and measures 【1-8805a6】
+- Enhanced analysis through custom calculations and measures 
 
 ### 📊 Data Visualisation
 - 📉 Line Charts
@@ -36,7 +36,7 @@ The project involved working with health, employment, retail, sales, and Spotify
 - 🔵 Scatter Plots
 - 📈 Trend Analysis Charts
 
-Used a variety of visualisation techniques to explore patterns, compare performance, and communicate findings effectively. 【1-8805a6】
+Used a variety of visualisation techniques to explore patterns, compare performance, and communicate findings effectively. 
 
 ---
 
@@ -46,7 +46,7 @@ Used a variety of visualisation techniques to explore patterns, compare performa
 - Created an interactive dashboard exploring UK employment trends
 - Visualised industry growth and workforce changes
 - Used maps to analyse regional employment statistics
-- Compared employment sectors and industry performance 【1-8805a6】
+- Compared employment sectors and industry performance 
 <img width="788" height="480" alt="image" src="https://github.com/user-attachments/assets/a5dddf33-d66e-4174-a51f-3e0e769efada" />
 
 ### ❤️ Global Health Dashboard
@@ -55,7 +55,7 @@ Used a variety of visualisation techniques to explore patterns, compare performa
 - Designed line charts displaying life expectancy trends over time
 - Built pie charts comparing population by gender
 - Produced scatter plots analysing life expectancy versus BMI
-- Applied filters to explore country-specific insights 【1-8805a6】
+- Applied filters to explore country-specific insights 
 <img width="788" height="431" alt="image" src="https://github.com/user-attachments/assets/87938ebf-5bd1-4387-9127-6986cc6c59e7" />
 
 
@@ -63,7 +63,7 @@ Used a variety of visualisation techniques to explore patterns, compare performa
 - Analysed music popularity and genre trends
 - Created visualisations showing artist popularity and performance
 - Compared danceability, valence, and listening trends
-- Used interactive filters to explore music-related insights 【1-8805a6】
+- Used interactive filters to explore music-related insights 
 <img width="788" height="434" alt="image" src="https://github.com/user-attachments/assets/5ce30b0c-158e-48ef-8ca0-e62c7146b346" />
 
 
@@ -80,7 +80,7 @@ The dashboards were designed to:
 - Compare performance across categories and regions
 - Present insights in an easy-to-understand format
 
-Using interactive dashboards allowed users to explore the data from different perspectives and uncover deeper insights through self-service analytics. 【1-8805a6】
+Using interactive dashboards allowed users to explore the data from different perspectives and uncover deeper insights through self-service analytics.
 
 ---
 
